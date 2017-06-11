@@ -1,0 +1,72 @@
+/* Note to students:
+Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!
+*/
+
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+}
+
+a {
+
+
+}
+
+header {
+  padding: 30px;
+ background-image: url(https://static.hsappstatic.net/content_shared_assets/static-1.3986/img/offer-image.jpg);
+
+ font-size: 30px;
+  color: #224004;
+  text-align: center;
+}
+
+nav {
+  width: 300px;
+  height: 100%;
+  float: left; /* don't modify */
+  background-color: rgba(255,255,255,.5);
+
+
+  margin-right: 20px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+}
+
+nav ul li a {
+
+font-weight: bolder ;
+
+    color: #c4b964;
+}
+
+section {
+  width: 500px;
+  float: left; /* don't modify */
+  padding: 5px;
+}
+article {
+
+
+}
+
+footer {
+  clear: left; /* don't modify */
+  padding: 10px;
+  background: ;
+  text-align: ;
+}
